@@ -1,7 +1,7 @@
 # 01-MiniProject
 Module 1 Mini Project
 
-##References
+## References
 
 https://developer.mozilla.org/en-US/docs/Web/CSS/font
 
